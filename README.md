@@ -1,1 +1,1 @@
-# react-node-test
+# Project title: Awesome react node app
